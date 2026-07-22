@@ -1,4 +1,3 @@
-# Hand-Gesture-Volume-Control
 # Hand Gesture Volume Control
 
 Control your **Windows 10/11 system volume** in real time using hand
